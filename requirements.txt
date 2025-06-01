@@ -1,8 +1,9 @@
-streamlit
-pandas
-numpy
-requests
-tensorflow
-joblib
-python-dotenv
-plotly
+streamlit==1.45.1
+pandas==2.2.2
+numpy==1.24.4
+tensorflow==2.13.0
+scikit-learn==1.3.2
+matplotlib==3.7.5
+seaborn==0.12.2
+joblib==1.3.2
+requests==2.31.0
